@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Web developer in Nextjs Typescript 
+- 👀 I’m interested in Artificial intelligence 
+- 🌱 I’m currently learning Agentic AI 
+- 💞️ I’m looking to collaborate on Web development 
