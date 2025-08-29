@@ -30,7 +30,7 @@
 
 ### 📫 Connect With Me  
 - 💼 [inkedIn](https://www.linkedin.com/in/athar-hussain-404383312)  
-- 🐙 [GitHub](https://github.com/yourgithub)  
+- 🐙 [GitHub](https://github.com/AtharHussain320)
 
 ---
 
