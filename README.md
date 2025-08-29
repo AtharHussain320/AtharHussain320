@@ -1,13 +1,13 @@
 # Hi there, I'm Athar Hussain 👋  
 
-🚀 **Web Developer | AI Enthusiast | Lifelong Learner**  
+🚀 **Web Developer | AI Enthusiast | Agentic AI Engineer**  
 
 ---
 
 ### 👨‍💻 About Me  
 - 🌐 I’m a **Web Developer** specialized in **Next.js** and **TypeScript**  
 - 👀 Interested in **Artificial Intelligence** and how it shapes the future  
-- 🌱 Currently learning **Agentic AI** and exploring advanced AI frameworks  
+- 🌱 Currently advancing **Agentic AI** and exploring advanced AI frameworks  
 - 💞️ Looking to collaborate on **Web Development** and **AI-driven projects**  
 
 ---
@@ -25,7 +25,7 @@
 - **Python**  
 - **FastAPI**  
 - **OpenAI Agent SDK**  
-
+- **Langchain**
 ---
 
 ### 📫 Connect With Me  
