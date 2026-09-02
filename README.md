@@ -1,17 +1,17 @@
-# Hi, I'm Athar Hussain 👋
+# Hi, I'm Athar Hussain 
 
 **Cloud Data Engineer | Web Developer | Backend & LLM Systems Engineer**
 
 ---
 
-## 👨‍💻 Summary
+##  Summary
 I am a **Cloud Data Engineering–focused professional** with expertise in building scalable data pipelines, modern data platforms, and cloud-native analytics solutions. Alongside data engineering, I bring strong experience in **web development** and **backend systems**, including the development of **LLM-powered applications**.
 
 My work centers on transforming raw data into reliable systems and combining data infrastructure with intelligent, production-ready applications.
 
 ---
 
-## ☁️ Cloud Data Engineering 
+##  Cloud Data Engineering 
 
 - **Python** — Core language for data processing, automation, and pipeline development.  
 - **Pandas** — Data cleaning, transformation, and analytical workflows.  
@@ -26,7 +26,7 @@ My work centers on transforming raw data into reliable systems and combining dat
 
 ---
 
-## 🌐 Web Development 
+##  Web Development 
 
 - **Next.js** — Building performant, full-stack web applications.  
 - **TypeScript** — Writing scalable, type-safe, and maintainable frontend code.  
@@ -34,7 +34,7 @@ My work centers on transforming raw data into reliable systems and combining dat
 
 ---
 
-## ⚙️ Backend & LLM Systems
+##  Backend & LLM Systems
 
 - **Python** — Backend logic and service development.  
 - **FastAPI** — High-performance APIs for data services and AI-driven applications.  
@@ -42,7 +42,7 @@ My work centers on transforming raw data into reliable systems and combining dat
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 - Cloud Data Platforms & Modern Data Warehousing  
 - ETL / ELT Pipelines and Workflow Automation  
 - Real-time Data Streaming Systems  
@@ -50,7 +50,7 @@ My work centers on transforming raw data into reliable systems and combining dat
 
 ---
 
-## 🤝 Open to Collaboration
+##  Open to Collaboration
 - Cloud & Data Engineering projects  
 - Backend systems and API development  
 - AI and LLM-powered applications  
